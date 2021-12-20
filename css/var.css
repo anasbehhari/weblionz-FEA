@@ -1,0 +1,29 @@
+:root{
+  --swiper-theme-color : #ff2d16 !important;
+}
+@font-face {
+  font-family: "playfair display";
+  src: url("../fonts/PlayfairDisplay-Regular.otf") format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "playfair display";
+  src: url("../fonts/PlayfairDisplay-Bold.otf") format("truetype");
+  font-weight: bold;
+}
+@font-face {
+  font-family: "playfair display";
+  src: url("../fonts/PlayfairDisplay-Black.otf") format("truetype");
+  font-weight: bolder;
+}
+
+@font-face {
+  font-family: "playfair display";
+  src: url("../fonts/PlayfairDisplay-Regular.otf") format("truetype");
+  font-weight: lighter;
+}
+@font-face {
+    font-family: "playfair display";
+    src: url("../fonts/PlayfairDisplay-Italic.otf") format("truetype");
+    font-weight: 200;
+  }
