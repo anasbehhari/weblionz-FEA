@@ -416,16 +416,16 @@
             </div>
             <ul>
               <li>
-                <a href="services/we-are-creation.html">Brand conception </a>
+                <a href="services/we-are-creation.php">Brand conception </a>
               </li>
               <li>
                 <a href="services/Just-in-time-creation">Reaserches and developement</a>
               </li>
               <li>
-                <a href="services/we-are-innovation.html">Brand refreshement</a>
+                <a href="services/we-are-innovation.php">Brand refreshement</a>
               </li>
               <li>
-                <a href="services/we-are-personnalization.html"
+                <a href="services/we-are-personnalization.php"
                   >Uniforms personalized service</a
                 >
               </li>

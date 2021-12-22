@@ -5,13 +5,29 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="../css/service.css" />
-    <title> Welcome to FashionExpertise.agency — Fashion Design & Consulting | Brand Refreshement Service </title>
-    <link rel="apple-touch-icon" sizes="180x180" href="/media/icons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/media/icons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/media/icons/favicon-16x16.png">
-    <link rel="manifest" href="/media/icons/site.webmanifest">
+    <title>
+      Welcome to FashionExpertise.agency — Fashion Design & Consulting |
+      Uniforms personalized Service
+    </title>
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/media/icons/apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="/media/icons/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="/media/icons/favicon-16x16.png"
+    />
+    <link rel="manifest" href="/media/icons/site.webmanifest" />
   </head>
-
   <body>
     <div class="loader">
       <div class="con-1">
@@ -23,7 +39,11 @@
       </div>
     </div>
     <section id="Header">
-      <img class="back brand" src="../media/images/ref.png" alt="" />
+      <img
+        class="back"
+        src="../media/images/Uniforms-personalized.png"
+        alt=""
+      />
       <header class="header">
         <div class="logo">
           <a href="../">
@@ -60,70 +80,100 @@
         </label>
       </header>
       <div class="title">
-        <h1>We are innovation</h1>
-        <h3>Brand refreshement</h3>
+        <h1>We're personnalization</h1>
+        <h3>Uniforms personalized service</h3>
       </div>
     </section>
-
     <main>
       <div class="text-section">
         <h1>
-          Describing a brand won’t rely only on It’s logo and color palette.
+          We makes sure tour employees look professional and to promotes your
+          brand.
         </h1>
       </div>
-      <div class="pictures-area service">
-        <img src="../media/images/4.jpg" alt="" />
-      </div>
-      <div class="grid-text display">
-        <div class="center">
-          <p>
-            When it comes to branding we are thinking about Defining the
-            Process, Your brand should be maintained by it’s value and unique
-            style, it is about rediscovering who you are, why do you exist and
-            why your client chooses you over other brands, and why your client
-            is loyal to you in a meaningful and consistent way
+
+      <br />
+
+      <div class="off-opt-con">
+        <div class="Restaurant-Business">
+          <div class="image-100">
+            <img src="../media/images/Tenue vendeur.jpg" alt="" />
+          </div>
+          <h2>Restaurant Business</h2>
+          <!--<p>
+            This service proposes a full design for his team inspired from his
+            own restaurant style, with practical ideas and innovative designs.
           </p>
-        </div>
-        <div class="space-between">
-          <h2>
-            Discovery <br />
-            and <br />research
-          </h2>
-          <h2>
-            Communications <br />
-            Brand audit
-          </h2>
-        </div>
-        <div class="center">
-          <h2>
-            Brand repositioning and <br />
-            key messages
-          </h2>
-        </div>
-        <div class="space-between">
-          <h2>
-            Competetive <br />
-            analysis
-          </h2>
-          <h2>
-            Logo and brand <br />
-            identity system <br />
-            update
-          </h2>
-        </div>
-        <div class="center">
           <p>
-            In this Service our agency is going to use different ways of
-            refreshing a brand, depending on the client’s demand, the client is
-            free to give us the whole package of refreshing it’s brand by taking
-            the study and research part until achieving the goal, or only the
-            redesigning the brand collection, and art direction by keeping it’s
-            identity
+            In this service the client is going to receive propositions from
+            <b>6 to 10</b>
+            depending on his request, and FEA can make it easier for him to get
+            the sample done and the production also.
+            <b>« Limited Quantity »</b>
           </p>
+          -->
+          <p>
+            The client is free to give us his preferences in fabrics qualities
+            and budget in terms of production and our team will study the file
+            to get him the best price.
+          </p>
+          <p>
+            6 to 10 Styles propositions inspired from the Spirit of his
+            Business, interior design and Marketing Concept.
+          </p>
+          <!--<p>
+            « Fabric propositions with different qualities Price Study using
+            different types of fabrics and Accessories / Pattern Making /
+            Sampling »
+          </p>
+          -->
+        </div>
+        <div class="Industrial">
+          <div class="image-100">
+            <img src="../media/images/100.jpg" alt="" />
+            <div class="photographer">
+              <a
+                class="name"
+                href="https://unsplash.com/@korie"
+                target="_blank"
+              >
+                <small>Taken by <b>@korie cull</b></small>
+              </a>
+            </div>
+          </div>
+          <h2>
+            Industrial uniforms manufacturers or Industry factories in General
+          </h2>
+          <p>
+            Industrial technical uniforms are mostly an over-all outfit that
+            contains the identity of the factory and necessary stuff for the
+            (WORKER) that mixes between comfort, utility, flexibility and fabric
+            quality depending on the season and the factory environments.
+          </p>
+          <!-- <p>
+            Then comes the design that combine between all the needs in one
+            style
+          </p>
+          <p>
+            The client is also free to ask for a full package that contains:
+          </p>
+          <p>
+            6 to 10 Styles propositions inspired from the Spirit of his
+            Business, interior design and Marketing Concept
+          </p>
+          <p>
+            « Fabric propositions with different qualities Price Study using
+            different types of fabrics and Accessories / Pattern Making /
+            Sampling »
+          </p>
+          -->
         </div>
       </div>
       <div class="links">
-        <a href="/contact.html">Let's get in touch<span class="line"></span></a>
+        <a href="">
+          Let's discuss Business
+          <span class="line"></span>
+        </a>
       </div>
     </main>
     <footer>
@@ -140,9 +190,9 @@
               <div class="line"></div>
             </div>
             <p class="description">
-              <b>FashionExpertise Agency</b> Have mush planned to the
-              future,working with great clients and continued Fashion
-              industry.If you’d like to join our team.
+              <b>FashionExpertise Agency</b>
+              Have mush planned to the future,working with great clients and
+              continued Fashion industry.If you’d like to join our team.
             </p>
             <div class="social-media">
               <a href="" class="sc">
@@ -201,21 +251,21 @@
             </div>
             <ul>
               <li>
-                  <a href="../#whyus">Why us</a>
+                <a href="../#whyus">Why us</a>
               </li>
               <li>
-                  <a href="../#whatwedo">What we do</a>
+                <a href="../#whatwedo">What we do</a>
               </li>
               <li>
-                  <a href="../#ourservices">Our services</a>
+                <a href="../#ourservices">Our services</a>
               </li>
               <li>
-                  <a href="../#ourclients">Our clients</a>
+                <a href="../#ourclients">Our clients</a>
               </li>
               <li>
-                  <a href="../contact.html">Let's get in touch</a>
+                <a href="../contact.php">Let's get in touch</a>
               </li>
-          </ul>
+            </ul>
           </div>
         </div>
         <div class="our-services section">
@@ -226,20 +276,20 @@
             </div>
             <ul>
               <li>
-                <a href="we-are-creation.html">Brand conception </a>
+                <a href="we-are-creation.php">Brand conception</a>
               </li>
               <li>
-                <a href="Just-in-time-creation.html"
-                  >Reaserches and developement</a
-                >
+                <a href="Just-in-time-creation.php">
+                  Reaserches and developement
+                </a>
               </li>
               <li>
-                <a href="we-are-innovation.html">Brand refreshement</a>
+                <a href="we-are-innovation.php">Brand refreshement</a>
               </li>
               <li>
-                <a href="we-are-personnalization.html"
-                  >Uniforms personalized service</a
-                >
+                <a href="we-are-personnalization.php">
+                  Uniforms personalized service
+                </a>
               </li>
             </ul>
           </div>
@@ -261,7 +311,7 @@
                     x="0px"
                     y="0px"
                     viewBox="0 0 287.32 287.32"
-                    style="enable-background: new 0 0 287.32 287.32"
+                    style="enable-background: new 0 0 287.32 287.32;"
                     xml:space="preserve"
                   >
                     <path
@@ -313,10 +363,11 @@
                       </clipPath>
                     </defs>
                   </svg>
-                  <span
-                    >9129 East Clinton Lane Fleming <br />
-                    Island, FL 32003</span
-                  >
+                  <span>
+                    9129 East Clinton Lane Fleming
+                    <br />
+                    Island, FL 32003
+                  </span>
                 </a>
               </li>
             </ul>

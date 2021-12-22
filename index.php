@@ -15,7 +15,6 @@
   <link rel="icon" type="image/png" sizes="16x16" href="/media/icons/favicon-16x16.png">
   <link rel="manifest" href="/media/icons/site.webmanifest">
 </head>
-
 <body>
   <div class="loader">
     <div class="con-1">
@@ -47,7 +46,7 @@
           <a href="#ourclients">Our clients</a>
         </li>
         <li>
-          <a href="contact.html">Let's get in touch</a>
+          <a href="contact.php">Let's get in touch</a>
         </li>
       </ul>
       <input type="checkbox" id="mobile-menu-toggle" class="mobile-menu-checkbox" hidden />
@@ -139,7 +138,7 @@
           exists to facilitate the designing and give an access to all
           research in an efficient way which is Smart for us to spread
         </p>
-        <a href="contact.html" class="contact">
+        <a href="contact.php" class="contact">
           <span>Let’s discuss Business</span>
           <span class="line"></span>
         </a>
@@ -186,28 +185,28 @@
       reporting , creating, conception and finally shipment.
     </p>
     <div class="grid">
-      <a class="item" href="services/we-are-creation.html">
+      <a class="item" href="services/we-are-creation.php">
         <img src="media/images/conc.png" alt="">
         <div class="text-info">
           <h2>We're creation</h2>
           <h3>Brand conception</h3>
         </div>
       </a>
-      <a class="item" href="services/Just-in-time-creation.html">
+      <a class="item" href="services/Just-in-time-creation.php">
         <img src="media/images/brand-1.png" alt="">
         <div class="text-info">
           <h2>Just in time creation</h2>
           <h3>Reaserches and developement</h3>
         </div>
       </a>
-      <a class="item" href="services/we-are-innovation.html">
+      <a class="item" href="services/we-are-innovation.php">
         <img src="media/images/ref.png" alt="">
         <div class="text-info">
           <h2>We're innovation</h2>
           <h3>Brand refreshement</h3>
         </div>
       </a>
-      <a class="item" href="services/we-are-personnalization.html">
+      <a class="item" href="services/we-are-personnalization.php">
         <img src="media/images/Uniforms-personalized.png" alt="">
         <div class="text-info">
           <h2>We're personnalization</h2>
@@ -238,7 +237,7 @@
         </svg>
       </div>
     </div>
-    <a href="contact.html" class="contact-us">
+    <a href="contact.php" class="contact-us">
       Contact us
       <div class="line"></div>
     </a>
@@ -426,7 +425,7 @@
             </div>
           </div>
           <div class="link">
-            <a href="contact.html" class="contact">
+            <a href="contact.php" class="contact">
               <span>
                 Send us a message now
                 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg"
@@ -515,7 +514,7 @@
               <a href="#ourclients">Our clients</a>
             </li>
             <li>
-              <a href="contact.html">Let's get in touch</a>
+              <a href="contact.php">Let's get in touch</a>
             </li>
           </ul>
         </div>
@@ -528,16 +527,16 @@
           </div>
           <ul>
             <li>
-              <a href="services/we-are-creation.html">Brand conception </a>
+              <a href="services/we-are-creation.php">Brand conception </a>
             </li>
             <li>
-              <a href="services/Just-in-time-creation.html">Reaserches and developement</a>
+              <a href="services/Just-in-time-creation.php">Reaserches and developement</a>
             </li>
             <li>
-              <a href="services/we-are-innovation.html">Brand refreshement</a>
+              <a href="services/we-are-innovation.php">Brand refreshement</a>
             </li>
             <li>
-              <a href="services/we-are-personnalization.html">Uniforms personalized service</a>
+              <a href="services/we-are-personnalization.php">Uniforms personalized service</a>
             </li>
           </ul>
         </div>

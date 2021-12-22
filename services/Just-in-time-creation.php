@@ -179,7 +179,7 @@
             </div>
         </div>
         <div class="links">
-            <a href="/contact.html">Let's get in touch<span class="line"></span></a>
+            <a href="/contact.php">Let's get in touch<span class="line"></span></a>
         </div>
     </main>
     <footer>
@@ -251,7 +251,7 @@
                             <a href="../#ourclients">Our clients</a>
                         </li>
                         <li>
-                            <a href="../contact.html">Let's get in touch</a>
+                            <a href="../contact.php">Let's get in touch</a>
                         </li>
                     </ul>
                 </div>
@@ -264,16 +264,16 @@
                     </div>
                     <ul>
                         <li>
-                            <a href="we-are-creation.html">Brand conception </a>
+                            <a href="we-are-creation.php">Brand conception </a>
                         </li>
                         <li>
-                            <a href="Just-in-time-creation.html">Reaserches and developement</a>
+                            <a href="Just-in-time-creation.php">Reaserches and developement</a>
                         </li>
                         <li>
-                            <a href="we-are-innovation.html">Brand refreshement</a>
+                            <a href="we-are-innovation.php">Brand refreshement</a>
                         </li>
                         <li>
-                            <a href="we-are-personnalization.html">Uniforms personalized service</a>
+                            <a href="we-are-personnalization.php">Uniforms personalized service</a>
                         </li>
                     </ul>
                 </div>

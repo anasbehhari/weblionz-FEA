@@ -5,29 +5,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="../css/service.css" />
-    <title>
-      Welcome to FashionExpertise.agency — Fashion Design & Consulting |
-      Uniforms personalized Service
-    </title>
-    <link
-      rel="apple-touch-icon"
-      sizes="180x180"
-      href="/media/icons/apple-touch-icon.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="32x32"
-      href="/media/icons/favicon-32x32.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="16x16"
-      href="/media/icons/favicon-16x16.png"
-    />
-    <link rel="manifest" href="/media/icons/site.webmanifest" />
+    <title> Welcome to FashionExpertise.agency — Fashion Design & Consulting | Brand Conception Service </title>
+    <link rel="apple-touch-icon" sizes="180x180" href="/media/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/media/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/media/icons/favicon-16x16.png">
+    <link rel="manifest" href="/media/icons/site.webmanifest">
   </head>
+
   <body>
     <div class="loader">
       <div class="con-1">
@@ -39,11 +23,7 @@
       </div>
     </div>
     <section id="Header">
-      <img
-        class="back"
-        src="../media/images/Uniforms-personalized.png"
-        alt=""
-      />
+      <img class="back" src="../media/images/conc.png" alt="" />
       <header class="header">
         <div class="logo">
           <a href="../">
@@ -80,100 +60,104 @@
         </label>
       </header>
       <div class="title">
-        <h1>We're personnalization</h1>
-        <h3>Uniforms personalized service</h3>
+        <h1>We're creation</h1>
+        <h3>Brand conception</h3>
       </div>
     </section>
     <main>
       <div class="text-section">
-        <h1>
-          We makes sure tour employees look professional and to promotes your
-          brand.
-        </h1>
+        <h1>We know how to create from the bottom.</h1>
       </div>
-
-      <br />
-
-      <div class="off-opt-con">
-        <div class="Restaurant-Business">
-          <div class="image-100">
-            <img src="../media/images/Tenue vendeur.jpg" alt="" />
-          </div>
-          <h2>Restaurant Business</h2>
-          <!--<p>
-            This service proposes a full design for his team inspired from his
-            own restaurant style, with practical ideas and innovative designs.
-          </p>
-          <p>
-            In this service the client is going to receive propositions from
-            <b>6 to 10</b>
-            depending on his request, and FEA can make it easier for him to get
-            the sample done and the production also.
-            <b>« Limited Quantity »</b>
-          </p>
-          -->
-          <p>
-            The client is free to give us his preferences in fabrics qualities
-            and budget in terms of production and our team will study the file
-            to get him the best price.
-          </p>
-          <p>
-            6 to 10 Styles propositions inspired from the Spirit of his
-            Business, interior design and Marketing Concept.
-          </p>
-          <!--<p>
-            « Fabric propositions with different qualities Price Study using
-            different types of fabrics and Accessories / Pattern Making /
-            Sampling »
-          </p>
-          -->
+      <div class="pictures-area service">
+        <img src="../media/images/br-1.png" />
+      </div>
+      <!-- <div class="text-section service">
+        <div class="lf-section">
+          <h2>We work in all areas</h2>
+          <small>
+            Womens, Mens, Kids/Baby, Casual, Luxury, Active, Swim, Emerging
+            Design, Footwear, and More
+          </small>
         </div>
-        <div class="Industrial">
-          <div class="image-100">
-            <img src="../media/images/100.jpg" alt="" />
-            <div class="photographer">
-              <a
-                class="name"
-                href="https://unsplash.com/@korie"
-                target="_blank"
-              >
-                <small>Taken by <b>@korie cull</b></small>
-              </a>
-            </div>
-          </div>
-          <h2>
-            Industrial uniforms manufacturers or Industry factories in General
-          </h2>
-          <p>
-            Industrial technical uniforms are mostly an over-all outfit that
-            contains the identity of the factory and necessary stuff for the
-            (WORKER) that mixes between comfort, utility, flexibility and fabric
-            quality depending on the season and the factory environments.
-          </p>
-          <!-- <p>
-            Then comes the design that combine between all the needs in one
-            style
-          </p>
-          <p>
-            The client is also free to ask for a full package that contains:
-          </p>
-          <p>
-            6 to 10 Styles propositions inspired from the Spirit of his
-            Business, interior design and Marketing Concept
-          </p>
-          <p>
-            « Fabric propositions with different qualities Price Study using
-            different types of fabrics and Accessories / Pattern Making /
-            Sampling »
-          </p>
-          -->
+        <div class="line"></div>
+      </div>
+      <div class="pic-area-grid">
+        <div class="picture"><img src="../media/images/wid.jpg" alt="" /></div>
+        <div class="picture">
+          <img src="../media/images/baby-clothes.jpeg" alt="" />
         </div>
+        <div class="picture">
+          <img src="../media/images/classywear.jpeg" alt="" />
+        </div>
+      </div>
+      <div class="text-section center">
+        <h2 class="w-80">
+          Our corporate fashion industry expertise, professional process, and
+          exclusive global network help our clients bring their products to
+          market.
+        </h2>
+      </div>
+      <div class="pictures-area service">
+        <img src="../media/images/ate-wear.jpg" alt="" />
+      </div> -->
+      <div class="text-section">
+        <h2 class="tit-hw">How does it work?</h2>
+      </div>
+      <div class="description">
+        <p class="w-top">
+          The Client will be charged to answer a Following Questionnaire about
+          his <b>BRAND</b>. <br />
+        </p>
+        <small
+          >Why ? The answers will guide the client and us to the desired
+          direction.</small
+        >
+
+        <p>The client will receive after the study a file containing :</p>
+        <ul>
+          <li>The brand identity</li>
+          <li>Color Palette Consists</li>
+          <li>Imagery</li>
+          <li>Typography</li>
+          <li>Logo Avatar / Mark</li>
+          <li>Models Warderobe Clues</li>
+          <li>Tagline</li>
+          <li>Props Styling</li>
+          <li>Core Styling</li>
+        </ul>
+        <p>
+          For each part the client will receive multiple propositions that
+          starts from 4 to 10 propositions.
+        </p>
+        <p>
+          After making his choice, the Agency creates a collection of basics
+          containing : <u>The Brand logo</u> and <u>name</u>, to visualize the
+          impact of the identity of the Brand.
+        </p>
+        <p>
+          Once the identity is confirmed, the next step is
+          <b class="italic">Themes and Mood Boards</b>, where the client chooses
+          the first line of his collection. The theme Mood Boards contains,
+          <u>inspirations</u>, <u>Color range</u>,
+          <u>graphics Design styles.</u>
+        </p>
+        <p>
+          Then comes the biggest step where the Fashion designers and Graphic
+          designers starts making the collection, by sketching, colors
+          combination, sourcing fabrics and accessories for propositions.
+        </p>
+        <p>
+          When the client chooses styles, FEA can do from the technical file to
+          making the Sample depending on the client need.
+        </p>
+        <!-- <p class="quote">
+          If needed, FEA can take in charge the Art direction of the shooting,
+          visual merchandising in case it’s a store,or a web-site and also
+          composing looks.
+        </p> -->
       </div>
       <div class="links">
-        <a href="">
-          Let's discuss Business
-          <span class="line"></span>
-        </a>
+        <a href="/contact.php">Let's get in touch<span class="line"></span></a>
       </div>
     </main>
     <footer>
@@ -190,9 +174,9 @@
               <div class="line"></div>
             </div>
             <p class="description">
-              <b>FashionExpertise Agency</b>
-              Have mush planned to the future,working with great clients and
-              continued Fashion industry.If you’d like to join our team.
+              <b>FashionExpertise Agency</b> Have mush planned to the
+              future,working with great clients and continued Fashion
+              industry.If you’d like to join our team.
             </p>
             <div class="social-media">
               <a href="" class="sc">
@@ -250,21 +234,21 @@
               <div class="line"></div>
             </div>
             <ul>
-              <li>
-                <a href="../#whyus">Why us</a>
-              </li>
-              <li>
-                <a href="../#whatwedo">What we do</a>
-              </li>
-              <li>
-                <a href="../#ourservices">Our services</a>
-              </li>
-              <li>
-                <a href="../#ourclients">Our clients</a>
-              </li>
-              <li>
-                <a href="../contact.html">Let's get in touch</a>
-              </li>
+                <li>
+                    <a href="../#whyus">Why us</a>
+                </li>
+                <li>
+                    <a href="../#whatwedo">What we do</a>
+                </li>
+                <li>
+                    <a href="../#ourservices">Our services</a>
+                </li>
+                <li>
+                    <a href="../#ourclients">Our clients</a>
+                </li>
+                <li>
+                    <a href="../contact.php">Let's get in touch</a>
+                </li>
             </ul>
           </div>
         </div>
@@ -276,20 +260,20 @@
             </div>
             <ul>
               <li>
-                <a href="we-are-creation.html">Brand conception</a>
+                <a href="we-are-creation.php">Brand conception </a>
               </li>
               <li>
-                <a href="Just-in-time-creation.html">
-                  Reaserches and developement
-                </a>
+                <a href="Just-in-time-creation.php"
+                  >Reaserches and developement</a
+                >
               </li>
               <li>
-                <a href="we-are-innovation.html">Brand refreshement</a>
+                <a href="we-are-innovation.php">Brand refreshement</a>
               </li>
               <li>
-                <a href="we-are-personnalization.html">
-                  Uniforms personalized service
-                </a>
+                <a href="we-are-personnalization.php"
+                  >Uniforms personalized service</a
+                >
               </li>
             </ul>
           </div>
@@ -311,7 +295,7 @@
                     x="0px"
                     y="0px"
                     viewBox="0 0 287.32 287.32"
-                    style="enable-background: new 0 0 287.32 287.32;"
+                    style="enable-background: new 0 0 287.32 287.32"
                     xml:space="preserve"
                   >
                     <path
@@ -363,11 +347,10 @@
                       </clipPath>
                     </defs>
                   </svg>
-                  <span>
-                    9129 East Clinton Lane Fleming
-                    <br />
-                    Island, FL 32003
-                  </span>
+                  <span
+                    >9129 East Clinton Lane Fleming <br />
+                    Island, FL 32003</span
+                  >
                 </a>
               </li>
             </ul>

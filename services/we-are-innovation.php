@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="../css/service.css" />
-    <title> Welcome to FashionExpertise.agency — Fashion Design & Consulting | Brand Conception Service </title>
+    <title> Welcome to FashionExpertise.agency — Fashion Design & Consulting | Brand Refreshement Service </title>
     <link rel="apple-touch-icon" sizes="180x180" href="/media/icons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/media/icons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/media/icons/favicon-16x16.png">
@@ -23,7 +23,7 @@
       </div>
     </div>
     <section id="Header">
-      <img class="back" src="../media/images/conc.png" alt="" />
+      <img class="back brand" src="../media/images/ref.png" alt="" />
       <header class="header">
         <div class="logo">
           <a href="../">
@@ -60,104 +60,70 @@
         </label>
       </header>
       <div class="title">
-        <h1>We're creation</h1>
-        <h3>Brand conception</h3>
+        <h1>We are innovation</h1>
+        <h3>Brand refreshement</h3>
       </div>
     </section>
+
     <main>
       <div class="text-section">
-        <h1>We know how to create from the bottom.</h1>
+        <h1>
+          Describing a brand won’t rely only on It’s logo and color palette.
+        </h1>
       </div>
       <div class="pictures-area service">
-        <img src="../media/images/br-1.png" />
+        <img src="../media/images/4.jpg" alt="" />
       </div>
-      <!-- <div class="text-section service">
-        <div class="lf-section">
-          <h2>We work in all areas</h2>
-          <small>
-            Womens, Mens, Kids/Baby, Casual, Luxury, Active, Swim, Emerging
-            Design, Footwear, and More
-          </small>
+      <div class="grid-text display">
+        <div class="center">
+          <p>
+            When it comes to branding we are thinking about Defining the
+            Process, Your brand should be maintained by it’s value and unique
+            style, it is about rediscovering who you are, why do you exist and
+            why your client chooses you over other brands, and why your client
+            is loyal to you in a meaningful and consistent way
+          </p>
         </div>
-        <div class="line"></div>
-      </div>
-      <div class="pic-area-grid">
-        <div class="picture"><img src="../media/images/wid.jpg" alt="" /></div>
-        <div class="picture">
-          <img src="../media/images/baby-clothes.jpeg" alt="" />
+        <div class="space-between">
+          <h2>
+            Discovery <br />
+            and <br />research
+          </h2>
+          <h2>
+            Communications <br />
+            Brand audit
+          </h2>
         </div>
-        <div class="picture">
-          <img src="../media/images/classywear.jpeg" alt="" />
+        <div class="center">
+          <h2>
+            Brand repositioning and <br />
+            key messages
+          </h2>
         </div>
-      </div>
-      <div class="text-section center">
-        <h2 class="w-80">
-          Our corporate fashion industry expertise, professional process, and
-          exclusive global network help our clients bring their products to
-          market.
-        </h2>
-      </div>
-      <div class="pictures-area service">
-        <img src="../media/images/ate-wear.jpg" alt="" />
-      </div> -->
-      <div class="text-section">
-        <h2 class="tit-hw">How does it work?</h2>
-      </div>
-      <div class="description">
-        <p class="w-top">
-          The Client will be charged to answer a Following Questionnaire about
-          his <b>BRAND</b>. <br />
-        </p>
-        <small
-          >Why ? The answers will guide the client and us to the desired
-          direction.</small
-        >
-
-        <p>The client will receive after the study a file containing :</p>
-        <ul>
-          <li>The brand identity</li>
-          <li>Color Palette Consists</li>
-          <li>Imagery</li>
-          <li>Typography</li>
-          <li>Logo Avatar / Mark</li>
-          <li>Models Warderobe Clues</li>
-          <li>Tagline</li>
-          <li>Props Styling</li>
-          <li>Core Styling</li>
-        </ul>
-        <p>
-          For each part the client will receive multiple propositions that
-          starts from 4 to 10 propositions.
-        </p>
-        <p>
-          After making his choice, the Agency creates a collection of basics
-          containing : <u>The Brand logo</u> and <u>name</u>, to visualize the
-          impact of the identity of the Brand.
-        </p>
-        <p>
-          Once the identity is confirmed, the next step is
-          <b class="italic">Themes and Mood Boards</b>, where the client chooses
-          the first line of his collection. The theme Mood Boards contains,
-          <u>inspirations</u>, <u>Color range</u>,
-          <u>graphics Design styles.</u>
-        </p>
-        <p>
-          Then comes the biggest step where the Fashion designers and Graphic
-          designers starts making the collection, by sketching, colors
-          combination, sourcing fabrics and accessories for propositions.
-        </p>
-        <p>
-          When the client chooses styles, FEA can do from the technical file to
-          making the Sample depending on the client need.
-        </p>
-        <!-- <p class="quote">
-          If needed, FEA can take in charge the Art direction of the shooting,
-          visual merchandising in case it’s a store,or a web-site and also
-          composing looks.
-        </p> -->
+        <div class="space-between">
+          <h2>
+            Competetive <br />
+            analysis
+          </h2>
+          <h2>
+            Logo and brand <br />
+            identity system <br />
+            update
+          </h2>
+        </div>
+        <div class="center">
+          <p>
+            In this Service our agency is going to use different ways of
+            refreshing a brand, depending on the client’s demand, the client is
+            free to give us the whole package of refreshing it’s brand by taking
+            the study and research part until achieving the goal, or only the
+            redesigning the brand collection, and art direction by keeping it’s
+            identity
+          </p>
+        </div>
       </div>
       <div class="links">
-        <a href="/contact.html">Let's get in touch<span class="line"></span></a>
+        <a href="/contact.php">Let's get in touch<span class="line"></span></a>
       </div>
     </main>
     <footer>
@@ -234,22 +200,22 @@
               <div class="line"></div>
             </div>
             <ul>
-                <li>
-                    <a href="../#whyus">Why us</a>
-                </li>
-                <li>
-                    <a href="../#whatwedo">What we do</a>
-                </li>
-                <li>
-                    <a href="../#ourservices">Our services</a>
-                </li>
-                <li>
-                    <a href="../#ourclients">Our clients</a>
-                </li>
-                <li>
-                    <a href="../contact.html">Let's get in touch</a>
-                </li>
-            </ul>
+              <li>
+                  <a href="../#whyus">Why us</a>
+              </li>
+              <li>
+                  <a href="../#whatwedo">What we do</a>
+              </li>
+              <li>
+                  <a href="../#ourservices">Our services</a>
+              </li>
+              <li>
+                  <a href="../#ourclients">Our clients</a>
+              </li>
+              <li>
+                  <a href="../contact.php">Let's get in touch</a>
+              </li>
+          </ul>
           </div>
         </div>
         <div class="our-services section">
@@ -260,18 +226,18 @@
             </div>
             <ul>
               <li>
-                <a href="we-are-creation.html">Brand conception </a>
+                <a href="we-are-creation.php">Brand conception </a>
               </li>
               <li>
-                <a href="Just-in-time-creation.html"
+                <a href="Just-in-time-creation.php"
                   >Reaserches and developement</a
                 >
               </li>
               <li>
-                <a href="we-are-innovation.html">Brand refreshement</a>
+                <a href="we-are-innovation.php">Brand refreshement</a>
               </li>
               <li>
-                <a href="we-are-personnalization.html"
+                <a href="we-are-personnalization.php"
                   >Uniforms personalized service</a
                 >
               </li>
