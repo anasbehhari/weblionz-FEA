@@ -1218,7 +1218,7 @@ html body section#ourclients.aos-animate p.description {
           transition-delay: 1s;
 }
 
-html body section#ourclients.aos-animate .clients,
+html body section#ourclients.aos-animate .clients, html body section#ourclients.aos-animate .partners,
 html body section#ourclients.aos-animate .testimonial-quotes {
   -webkit-transition-delay: 1.5s;
           transition-delay: 1.5s;
@@ -1276,7 +1276,7 @@ html body section#ourclients p.description {
   transition: 1.3s clip-path, 1.3s -webkit-clip-path;
 }
 
-html body section#ourclients .clients {
+html body section#ourclients .clients, html body section#ourclients .partners {
   position: relative;
   width: 100%;
   max-width: 1000px;
@@ -1296,23 +1296,22 @@ html body section#ourclients .clients {
   opacity: 0;
 }
 
-html body section#ourclients .clients .client {
+html body section#ourclients .clients .client, html body section#ourclients .clients .partner, html body section#ourclients .partners .client, html body section#ourclients .partners .partner {
   position: relative;
   margin: 0 30px;
 }
 
-html body section#ourclients .clients .client img {
+html body section#ourclients .clients .client img, html body section#ourclients .clients .partner img, html body section#ourclients .partners .client img, html body section#ourclients .partners .partner img {
   width: 140px;
 }
 
-html body section#ourclients .clients .client img.s {
+html body section#ourclients .clients .client img.s, html body section#ourclients .clients .partner img.s, html body section#ourclients .partners .client img.s, html body section#ourclients .partners .partner img.s {
   width: 80px;
 }
 
 html body section#ourclients .testimonial-quotes {
   position: relative;
   margin-top: 60px;
-  margin-bottom: 90px;
   font-family: "playfair display", sans-serif;
   max-width: 700px;
   -webkit-transition: 1s opacity;
@@ -1320,10 +1319,18 @@ html body section#ourclients .testimonial-quotes {
   opacity: 0;
 }
 
+html body section#ourclients .testimonial-quotes:last-of-type {
+  margin-bottom: 90px;
+}
+
 html body section#ourclients .testimonial-quotes h2 {
   font-weight: 200 !important;
   text-align: center;
   color: #ff2d16;
+}
+
+html body section#ourclients .testimonial-quotes h2.mb {
+  margin-bottom: 78px;
 }
 
 html body section#ourclients .testimonial-quotes h2 span {
@@ -2339,7 +2346,7 @@ html body footer .container-footer div.section .center ul li a:hover {
     text-align: justify;
     max-width: calc(100% - 35px);
   }
-  html body section#ourclients .clients {
+  html body section#ourclients .clients, html body section#ourclients .partners {
     position: relative;
     width: 100%;
     max-width: 1000px;
@@ -2356,11 +2363,11 @@ html body footer .container-footer div.section .center ul li a:hover {
         flex-wrap: wrap;
     gap: 50px;
   }
-  html body section#ourclients .clients .client {
+  html body section#ourclients .clients .client, html body section#ourclients .clients .partner, html body section#ourclients .partners .client, html body section#ourclients .partners .partner {
     position: relative;
     margin: 0 20px;
   }
-  html body section#ourclients .clients .client img {
+  html body section#ourclients .clients .client img, html body section#ourclients .clients .partner img, html body section#ourclients .partners .client img, html body section#ourclients .partners .partner img {
     width: 140px;
   }
   html body section#ourclients .testimonial-quotes {

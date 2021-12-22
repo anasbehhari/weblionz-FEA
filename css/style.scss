@@ -857,7 +857,7 @@ html {
           clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
           transition-delay: 1s;
         }
-        .clients,
+        .clients,.partners,
         .testimonial-quotes {
           transition-delay: 1.5s;
           opacity: 1;
@@ -878,6 +878,7 @@ html {
           padding: 0 30px;
           font-size: 29px;
           letter-spacing: 1px;
+          
         }
         .line {
           position: absolute;
@@ -899,7 +900,7 @@ html {
         clip-path: polygon(0 0, 0 0, 0 100%, 0% 100%);
         transition: 1.3s clip-path;
       }
-      .clients {
+      .clients,.partners {
         position: relative;
         width: 100%;
         max-width: 1000px;
@@ -909,7 +910,7 @@ html {
         flex-wrap: wrap;
         transition: 1s opacity;
         opacity: 0;
-        .client {
+        .client,.partner {
           position: relative;
           margin: 0 30px;
           img {
@@ -919,11 +920,14 @@ html {
             width: 140px;
           }
         }
+      
       }
       .testimonial-quotes {
         position: relative;
         margin-top: 60px;
-        margin-bottom: 90px;
+        &:last-of-type {
+          margin-bottom: 90px;
+        }
         font-family: "playfair display", sans-serif;
         max-width: 700px;
         transition: 1s opacity;
@@ -932,10 +936,14 @@ html {
           font-weight: 200 !important;
           text-align: center;
           color: #ff2d16;
+          &.mb {
+              margin-bottom: 78px;
+            }
           span {
             font-weight: bold;
             font-size: 25px;
             font-style: italic;
+            
           }
         }
         .swiper {
@@ -1826,7 +1834,7 @@ html {
           text-align: justify;
           max-width: calc(100% - 35px);
         }
-        .clients {
+        .clients,.partners {
           position: relative;
           width: 100%;
           max-width: 1000px;
@@ -1835,7 +1843,7 @@ html {
           justify-content: center;
           flex-wrap: wrap;
           gap: 50px;
-          .client {
+          .client,.partner {
             position: relative;
             margin: 0 20px;
             
