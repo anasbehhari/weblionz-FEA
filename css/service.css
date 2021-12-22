@@ -396,7 +396,7 @@ body main .pictures-area.service {
   margin-bottom: 0;
 }
 
-body main .pictures-area.service img {
+body main .pictures-area.service img, body main .pictures-area.service video {
   width: 100%;
   height: 100%;
   -o-object-fit: cover;
