@@ -157,7 +157,7 @@
         </p> -->
       </div>
       <div class="links">
-        <a href="/contact.php">Let's get in touch<span class="line"></span></a>
+        <a href="../contact.php">Let's get in touch<span class="line"></span></a>
       </div>
     </main>
     <footer>
