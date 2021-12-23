@@ -8,12 +8,12 @@
   <link rel="stylesheet" href="css/swiper-bundle.min.css" />
   <script src="js/swiper-bundle.min.js"></script>
   <link rel="stylesheet" href="css/style.css" />
-  <link href="/css/aos.css" rel="stylesheet">
+  <link href="./css/aos.css" rel="stylesheet">
   <title>Welcome to FashionExpertise.agency — Fashion Design & Consulting </title>
-  <link rel="apple-touch-icon" sizes="180x180" href="/media/icons/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/media/icons/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/media/icons/favicon-16x16.png">
-  <link rel="manifest" href="/media/icons/site.webmanifest">
+  <link rel="apple-touch-icon" sizes="180x180" href="./media/icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="./media/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="./media/icons/favicon-16x16.png">
+  <link rel="manifest" href="./media/icons/site.webmanifest">
 </head>
 <body>
   <div class="loader">

@@ -6,10 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="css/contact.css" />
     <title>Welcome to FashionExpertise.agency — Fashion Design & Consulting | contact Page </title>
-    <link rel="apple-touch-icon" sizes="180x180" href="/media/icons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/media/icons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/media/icons/favicon-16x16.png">
-    <link rel="manifest" href="/media/icons/site.webmanifest">
+    <link rel="apple-touch-icon" sizes="180x180" href="./media/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./media/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./media/icons/favicon-16x16.png">
+    <link rel="manifest" href="./media/icons/site.webmanifest">
   </head>
 
   <body>
@@ -25,25 +25,25 @@
     <section id="Header">
       <header class="header">
         <div class="logo">
-          <a href="/">
+          <a href="./">
             <img src="media/logo.svg" alt="" />
           </a>
         </div>
         <ul class="navBar">
           <li>
-            <a href="/">Home</a>
+            <a href="./">Home</a>
           </li>
           <li>
-            <a href="/whyus">Why us</a>
+            <a href="./#whyus">Why us</a>
           </li>
           <li>
-            <a href="/whatwedo">What we do</a>
+            <a href="./#whatwedo">What we do</a>
           </li>
           <li>
-            <a href="/ourservices">Our services</a>
+            <a href="./#ourservices">Our services</a>
           </li>
           <li>
-            <a href="/ourclients">Our clients</a>
+            <a href="./#ourclients">Our clients</a>
           </li>
         </ul>
         <input
@@ -299,14 +299,14 @@
             <div class="con">
               <span><b>Fashion Expertise Agency Design & Consulting</b> </span>
               <span class="address"
-                >2880 Broadway, New York, NY 10025, USA</span
+                >8, Rue Moulay Rachid, APPT 7 Hassan Rabat</span
               >
             </div>
           </div>
           <div class="map">
             <iframe
               id="map"
-              src="https://maps.google.com/maps?q=2880%20Broadway,%20New%20York&t=&z=15&ie=UTF8&iwloc=&output=embed"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3324.1349872534593!2d-7.6075359845957715!3d33.57584428073835!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda7cd5a3b525615%3A0xd672d4da40302751!2sRue%20Moulay%20Rachid%D8%8C%20Dar-el-Beida%2020250%2C%20Morocco!5e0!3m2!1sen!2sus!4v1640290864852!5m2!1sen!2sus"
               frameborder="0"
               scrolling="no"
               marginheight="0"
@@ -391,19 +391,19 @@
             </div>
             <ul>
               <li>
-                <a href="/">Home</a>
+                <a href="./">Home</a>
               </li>
               <li>
-                <a href="/whyus">Why us</a>
+                <a href="./#whyus">Why us</a>
               </li>
               <li>
-                <a href="/whatwedo">What we do</a>
+                <a href="./#whatwedo">What we do</a>
               </li>
               <li>
-                <a href="/ourservices">Our services</a>
+                <a href="./#ourservices">Our services</a>
               </li>
               <li>
-                <a href="/ourclients">Our clients</a>
+                <a href="./#ourclients">Our clients</a>
               </li>
             </ul>
           </div>
