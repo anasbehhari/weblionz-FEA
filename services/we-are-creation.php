@@ -126,29 +126,26 @@
           <li>Core Styling</li>
         </ul>
         <p>
-          For each part the client will receive multiple propositions that
-          starts from 4 to 10 propositions.
+        For each part the client will receive multiple propositions that starts from 4 to 10 propositions.
         </p>
         <p>
-          After making his choice, the Agency creates a collection of basics
-          containing : <u>The Brand logo</u> and <u>name</u>, to visualize the
-          impact of the identity of the Brand.
+        After making his choice, the Agency creates a collection of basics, containing: <u>The Brand logo</u> and <u>name</u>, to visualize the impact of the identity of the Brand.
         </p>
         <p>
           Once the identity is confirmed, the next step is
           <b class="italic">Themes and Mood Boards</b>, where the client chooses
-          the first line of his collection. The theme Mood Boards contains,
+          the first line of his collection. The theme Mood Boards contain,
           <u>inspirations</u>, <u>Color range</u>,
           <u>graphics Design styles.</u>
         </p>
         <p>
           Then comes the biggest step where the Fashion designers and Graphic
-          designers starts making the collection, by sketching, colors
+          designers starts making the collection, by sketching, color
           combination, sourcing fabrics and accessories for propositions.
         </p>
         <p>
           When the client chooses styles, FEA can do from the technical file to
-          making the Sample depending on the client need.
+          make the Sample depending on the client need.
         </p>
         <!-- <p class="quote">
           If needed, FEA can take in charge the Art direction of the shooting,
