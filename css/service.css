@@ -66,7 +66,7 @@ body .loader .con-1 div {
   position: relative;
   margin-top: 20px;
   color: #fff;
-  font-family: 'Playfair display';
+  font-family: "Playfair display";
   width: -webkit-fit-content;
   width: -moz-fit-content;
   width: fit-content;
@@ -99,7 +99,7 @@ body #Header::before {
   height: 100%;
   top: 0;
   left: 0;
-  content: '';
+  content: "";
   background-color: #ff2d16bb;
 }
 
@@ -151,7 +151,7 @@ body #Header header ul.navBar {
       -ms-flex-align: center;
           align-items: center;
   list-style: none;
-  font-family: 'Playfair display', sans-serif;
+  font-family: "Playfair display", sans-serif;
   color: #fff;
   position: relative;
 }
@@ -174,7 +174,7 @@ body #Header header ul.navBar li a {
 }
 
 body #Header header ul.navBar li a::after {
-  content: '';
+  content: "";
   width: 0px;
   height: 2px;
   background-color: #fff;
@@ -266,7 +266,7 @@ body #Header .title {
       -ms-flex-pack: center;
           justify-content: center;
   color: #fff;
-  font-family: 'playfair display', sans-serif;
+  font-family: "playfair display", sans-serif;
   text-align: center;
   top: 50%;
   -webkit-transform: translateY(-40%);
@@ -341,7 +341,7 @@ body main .text-section.service {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  font-family: 'playfair display', sans-serif;
+  font-family: "playfair display", sans-serif;
 }
 
 body main .text-section.service div {
@@ -396,7 +396,8 @@ body main .pictures-area.service {
   margin-bottom: 0;
 }
 
-body main .pictures-area.service img, body main .pictures-area.service video {
+body main .pictures-area.service img,
+body main .pictures-area.service video {
   width: 100%;
   height: 100%;
   -o-object-fit: cover;
@@ -472,7 +473,7 @@ body main .options-offers .option p {
   position: relative;
   width: 100%;
   text-align: justify;
-  font-family: 'playfair display', sans-serif;
+  font-family: "playfair display", sans-serif;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -583,6 +584,10 @@ body main .description {
           flex-direction: column;
 }
 
+body main .description.business p {
+  margin-bottom: 40px;
+}
+
 body main .description p {
   position: relative;
   width: -webkit-fit-content;
@@ -655,7 +660,7 @@ body main .grid-text {
 }
 
 body main .grid-text div {
-  font-family: 'playfair display', sans-serif;
+  font-family: "playfair display", sans-serif;
 }
 
 body main .grid-text div h2 {
@@ -695,7 +700,7 @@ body main .grid-text div.space-between {
 
 body main .off-opt-con {
   position: relative;
-  font-family: 'playfair display', sans-serif;
+  font-family: "playfair display", sans-serif;
   width: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -761,7 +766,7 @@ body footer {
   width: calc(100% - 100px);
   background-color: #ff2d16;
   padding: 50px;
-  font-family: 'playfair display';
+  font-family: "playfair display";
   margin-top: 40px;
 }
 
@@ -826,7 +831,7 @@ body footer .container-footer div.section .center .tit .line {
 
 body footer .container-footer div.section .center .tit .line::before {
   position: absolute;
-  content: '';
+  content: "";
   width: 5px;
   background-color: #ff2d16;
   left: 25%;
@@ -961,7 +966,7 @@ body footer .container-footer div.section .center ul li a:hover {
     position: relative;
     width: 100%;
     text-align: justify;
-    font-family: 'playfair display', sans-serif;
+    font-family: "playfair display", sans-serif;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -1039,7 +1044,7 @@ body footer .container-footer div.section .center ul li a:hover {
     position: relative;
     width: calc(100% - 30px) !important;
     padding: 30px 15px 20px 15px !important;
-    font-family: 'playfair display';
+    font-family: "playfair display";
     margin-top: 40px;
   }
   body footer .container-footer {
@@ -1250,7 +1255,7 @@ body footer .container-footer div.section .center ul li a:hover {
     position: relative;
     width: 100%;
     text-align: justify;
-    font-family: 'playfair display', sans-serif;
+    font-family: "playfair display", sans-serif;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -1328,7 +1333,7 @@ body footer .container-footer div.section .center ul li a:hover {
     margin: 50px 0;
   }
   body main .grid-text div {
-    font-family: 'playfair display', sans-serif;
+    font-family: "playfair display", sans-serif;
     height: 200px;
     max-height: -webkit-fit-content;
     max-height: -moz-fit-content;
@@ -1456,8 +1461,28 @@ body footer .container-footer div.section .center ul li a:hover {
   body #Header header label.mobile-in {
     display: block;
   }
+  body main .description.business {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    width: 100%;
+  }
   body main .description.business p {
     line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  body main .description.business p.fir {
+    margin-top: 40px;
+  }
+  body main .description .paragraphs {
+    width: 90%;
   }
 }
 /*# sourceMappingURL=service.css.map */

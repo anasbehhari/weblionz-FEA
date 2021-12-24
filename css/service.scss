@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Muli:300,400,700,800,900);
-@import url('../css/var.css');
+@import url("../css/var.css");
 body {
   margin: 0;
   padding: 0;
@@ -39,7 +39,7 @@ body {
         position: relative;
         margin-top: 20px;
         color: #fff;
-        font-family: 'Playfair display';
+        font-family: "Playfair display";
         width: fit-content;
       }
     }
@@ -65,7 +65,7 @@ body {
       height: 100%;
       top: 0;
       left: 0;
-      content: '';
+      content: "";
       background-color: #ff2d16bb;
     }
 
@@ -97,7 +97,7 @@ body {
         display: flex;
         align-items: center;
         list-style: none;
-        font-family: 'Playfair display', sans-serif;
+        font-family: "Playfair display", sans-serif;
         color: #fff;
         position: relative;
         li {
@@ -112,7 +112,7 @@ body {
             color: inherit;
             text-decoration: none;
             &::after {
-              content: '';
+              content: "";
               width: 0px;
               height: 2px;
               background-color: #fff;
@@ -186,7 +186,7 @@ body {
       flex-direction: column;
       justify-content: center;
       color: #fff;
-      font-family: 'playfair display', sans-serif;
+      font-family: "playfair display", sans-serif;
       text-align: center;
       top: 50%;
       transform: translateY(-40%);
@@ -234,7 +234,7 @@ body {
         position: relative;
         display: flex;
         align-items: center;
-        font-family: 'playfair display', sans-serif;
+        font-family: "playfair display", sans-serif;
         div {
           width: 60%;
           &:last-of-type {
@@ -270,12 +270,12 @@ body {
       &.service {
         height: 600px;
         margin-bottom: 0;
-        img ,video {
+        img,
+        video {
           width: 100%;
           height: 100%;
           object-fit: cover;
         }
-
       }
       .picture {
         position: relative;
@@ -325,7 +325,7 @@ body {
           position: relative;
           width: 100%;
           text-align: justify;
-          font-family: 'playfair display', sans-serif;
+          font-family: "playfair display", sans-serif;
           display: flex;
           flex-direction: column;
           line-height: 28px;
@@ -405,6 +405,11 @@ body {
       margin: 50px 0 80px 0;
       display: flex;
       flex-direction: column;
+      &.business {
+        p {
+          margin-bottom: 40px;
+        }
+      }
       p {
         position: relative;
         width: fit-content;
@@ -461,7 +466,7 @@ body {
       grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
       margin: 50px 0;
       div {
-        font-family: 'playfair display', sans-serif;
+        font-family: "playfair display", sans-serif;
         h2 {
           text-align: center;
           color: #ff2d16;
@@ -485,7 +490,7 @@ body {
     }
     .off-opt-con {
       position: relative;
-      font-family: 'playfair display', sans-serif;
+      font-family: "playfair display", sans-serif;
       width: 100%;
       display: flex;
       justify-content: space-between;
@@ -525,7 +530,6 @@ body {
         p {
           margin-bottom: 30px;
           text-align: justify;
-          
         }
       }
     }
@@ -535,7 +539,7 @@ body {
     width: calc(100% - 100px);
     background-color: #ff2d16;
     padding: 50px;
-    font-family: 'playfair display';
+    font-family: "playfair display";
     margin-top: 40px;
     .container-footer {
       position: relative;
@@ -570,7 +574,7 @@ body {
               border-radius: 10px;
               &::before {
                 position: absolute;
-                content: '';
+                content: "";
                 width: 5px;
                 background-color: #ff2d16;
                 left: 25%;
@@ -685,7 +689,7 @@ body {
             position: relative;
             width: 100%;
             text-align: justify;
-            font-family: 'playfair display', sans-serif;
+            font-family: "playfair display", sans-serif;
             display: flex;
             flex-direction: column;
             line-height: 28px;
@@ -774,7 +778,7 @@ body {
       position: relative;
       width: calc(100% - 30px) !important;
       padding: 30px 15px 20px 15px !important;
-      font-family: 'playfair display';
+      font-family: "playfair display";
       margin-top: 40px;
       .container-footer {
         position: relative;
@@ -943,7 +947,7 @@ body {
             position: relative;
             width: 100%;
             text-align: justify;
-            font-family: 'playfair display', sans-serif;
+            font-family: "playfair display", sans-serif;
             display: flex;
             flex-direction: column;
             line-height: 28px;
@@ -964,7 +968,7 @@ body {
           }
         }
       }
-    
+
       .links {
         margin-bottom: 30px;
         a {
@@ -1015,7 +1019,7 @@ body {
         grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
         margin: 50px 0;
         div {
-          font-family: 'playfair display', sans-serif;
+          font-family: "playfair display", sans-serif;
           height: 200px;
           max-height: fit-content;
           h2 {
@@ -1116,9 +1120,20 @@ body {
     main {
       .description {
         &.business {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          width: 100%;
           p {
             line-height: 1.5;
+            margin-bottom: 20px;
+            &.fir {
+              margin-top: 40px;
+            }
           }
+        }
+        .paragraphs {
+          width: 90%;
         }
       }
     }

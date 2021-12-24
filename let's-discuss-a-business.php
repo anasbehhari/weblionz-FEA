@@ -24,7 +24,7 @@
     </div>
   </div>
   <section id="Header">
-  <img class="back" src="media/images/conc.png" alt="">
+    <img class="back" src="media/images/conc.png" alt="">
 
     <header class="header">
       <div class="logo">
@@ -62,35 +62,40 @@
   </section>
   <main>
     <section class="description business">
-    <div class="pictures-area service">
-    <img src="media/images/4.jpg" alt="">
+      <div class="pictures-area service">
+        <img src="media/images/4.jpg" alt="">
       </div>
-      <p class="fir">
-        As known as a billion dollars’ industry that employs millions of people, Fashion and textile/Clothing is one of the biggest manufacturing businesses.
-        fast-fashion has gone viral in people’s lives, being covered is a need, but having a unique style is the customer’s new behavior.
-      </p>
-      <p>
-        People are learning to make their own lifestyle, which definitely makes them have their own clothing style too.
-        This new attitude got the fashion industry thinking about how to assure a long life business.
-      </p>
-      <p>
-        However we start believing that Detailing is the new strategy for a better fashion business.
-      </p>
-      <p>
-        Fast fashion evolution got me thinking about how we can maintain a business in the new generation, who is getting a new life attitude. Nowadays people are interested in a daily life pleasure, getting dressed everyday is the ultimate need for the customer, who is excited to buy a short life garment.
-      </p>
-      <p>
-        On the other hand, personalization is the new perfection, many brands have set a new way of selling their clothes by making the customer customize his own style, which shows how the fashion industry of the journey is aware that the client is conscious about his personality and character, and like to wear what expresses his perspectives first.
-        <br>
+      <div class="paragraphs">
+        <p class="fir">
+          As known as a billion dollars’ industry that employs millions of people, Fashion and textile/Clothing is one of the biggest manufacturing businesses.
+          fast-fashion has gone viral in people’s lives, being covered is a need, but having a unique style is the customer’s new behavior.
+        </p>
+        <p>
+          People are learning to make their own lifestyle, which definitely makes them have their own clothing style too.
+          This new attitude got the fashion industry thinking about how to assure a long life business.
+        </p>
+        <p>
+          However we start believing that Detailing is the new strategy for a better fashion business.
+        </p>
+        <p>
+          Fast fashion evolution got me thinking about how we can maintain a business in the new generation, who is getting a new life attitude. Nowadays people are interested in a daily life pleasure, getting dressed everyday is the ultimate need for the customer, who is excited to buy a short life garment.
+        </p>
+        <p>
+          On the other hand, personalization is the new perfection, many brands have set a new way of selling their clothes by making the customer customize his own style, which shows how the fashion industry of the journey is aware that the client is conscious about his personality and character, and like to wear what expresses his perspectives first.
+        
+        </p>
+        <p>
         As we can perfectly see how the customer got so influenced by social media, it facilitates the client’s awareness of the latest brands and lifestyles.
-      </p>
-      <p class="quote" style="width: 100%;">
-        « We can’t tolerate not having originality and creativity presence in the fashion stores of nowadays »
-      </p>
+
+        </p>
+        <p class="quote" style="width: 100%;">
+          « We can’t tolerate not having originality and creativity presence in the fashion stores of nowadays »
+        </p>
+      </div>
     </section>
     <div class="links">
-        <a href="../contact.php">Let's get in touch<span class="line"></span></a>
-      </div>
+      <a href="../contact.php">Let's get in touch<span class="line"></span></a>
+    </div>
   </main>
   <footer>
     <div class="container-footer">
