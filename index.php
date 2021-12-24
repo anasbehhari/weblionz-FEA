@@ -47,6 +47,9 @@
           <a href="#ourclients">Our clients</a>
         </li>
         <li>
+          <a href="let's-discuss-a-business.php">let's discuss a business</a>
+        </li>
+        <li>
           <a href="contact.php">Let's get in touch</a>
         </li>
       </ul>
