@@ -61,7 +61,7 @@
     </div>
   </section>
   <main>
-    <section class="description">
+    <section class="description business">
     <div class="pictures-area service">
     <img src="media/images/4.jpg" alt="">
       </div>

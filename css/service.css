@@ -1456,5 +1456,8 @@ body footer .container-footer div.section .center ul li a:hover {
   body #Header header label.mobile-in {
     display: block;
   }
+  body main .description p {
+    line-height: 1.5;
+  }
 }
 /*# sourceMappingURL=service.css.map */
