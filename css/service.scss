@@ -409,6 +409,9 @@ body {
         position: relative;
         width: fit-content;
         font-size: 19px;
+        &.fir {
+          margin-top: 60px;
+        }
         &.quote {
           position: relative;
           padding-left: 30px;
@@ -961,8 +964,17 @@ body {
           }
         }
       }
+    
       .links {
         margin-bottom: 30px;
+        a {
+          border: 1.5px solid #ff2d16;
+          padding: 13px 27px;
+          font-size: 14px;
+          .line {
+            height: 1.5px;
+          }
+        }
       }
       .description {
         width: 90%;

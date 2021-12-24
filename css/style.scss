@@ -7,6 +7,7 @@ html {
     padding: 0;
     box-sizing: border-box;
     overflow-y: scroll;
+    overflow-x: hidden;
     .loader {
       position: fixed;
       width: 100%;
@@ -929,7 +930,7 @@ html {
           margin-bottom: 90px;
         }
         font-family: "playfair display", sans-serif;
-        max-width: 700px;
+        max-width: 850px;
         transition: 1s opacity;
         opacity: 0;
         h2 {
@@ -1297,6 +1298,7 @@ html {
                   svg {
                     width: 15px;
                     fill: white;
+                    margin-right: 5px;
                   }
                   &:hover {
                     text-decoration: underline;

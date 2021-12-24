@@ -10,6 +10,7 @@ html body {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   overflow-y: scroll;
+  overflow-x: hidden;
 }
 
 html body .loader {
@@ -1313,7 +1314,7 @@ html body section#ourclients .testimonial-quotes {
   position: relative;
   margin-top: 60px;
   font-family: "playfair display", sans-serif;
-  max-width: 700px;
+  max-width: 850px;
   -webkit-transition: 1s opacity;
   transition: 1s opacity;
   opacity: 0;
@@ -1847,6 +1848,7 @@ html body footer .container-footer div.section .center ul li a:last-of-type {
 html body footer .container-footer div.section .center ul li a svg {
   width: 15px;
   fill: white;
+  margin-right: 5px;
 }
 
 html body footer .container-footer div.section .center ul li a:hover {

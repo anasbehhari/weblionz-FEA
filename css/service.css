@@ -591,6 +591,10 @@ body main .description p {
   font-size: 19px;
 }
 
+body main .description p.fir {
+  margin-top: 60px;
+}
+
 body main .description p.quote {
   position: relative;
   padding-left: 30px;
@@ -1270,6 +1274,14 @@ body footer .container-footer div.section .center ul li a:hover {
   }
   body main .links {
     margin-bottom: 30px;
+  }
+  body main .links a {
+    border: 1.5px solid #ff2d16;
+    padding: 13px 27px;
+    font-size: 14px;
+  }
+  body main .links a .line {
+    height: 1.5px;
   }
   body main .description {
     width: 90%;
