@@ -1115,7 +1115,7 @@ body {
     }
     main {
       .description {
-        .business {
+        &.business {
           p {
             line-height: 1.5;
           }
