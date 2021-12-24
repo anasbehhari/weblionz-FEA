@@ -1477,6 +1477,7 @@ body footer .container-footer div.section .center ul li a:hover {
   body main .description.business p {
     line-height: 2;
     margin-bottom: 20px;
+    opacity: 0;
   }
   body main .description.business p.fir {
     margin-top: 40px;
