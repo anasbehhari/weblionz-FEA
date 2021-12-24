@@ -237,16 +237,16 @@
     </p>
     </div>
     <div class="clients">
-      <div class="client">
+      <a href="https://www.filmod.ma/" target="_blank" class="client">
         <img src="media/images/clients/filmod.png" alt="">
-      </div>
-      <div class="client">
+      </a>
+      <a href="http://newwash.ma/" target="_blank"  class="client">
         <img src="media/images/clients/new-wash.png" alt="">
-      </div>
+      </a>
 
-      <div class="client">
+      <a href="https://medconsortium.com/" target="_blank" class="client">
         <img src="media/images/clients/med-consortium.png" alt="">
-      </div>
+      </a>
       <div class="client">
         <img src="media/images/clients/installator.png" alt="">
       </div>
@@ -257,15 +257,15 @@
       <div class="client">
         <img src="media/images/clients/ipom.jpeg" alt="">
       </div>
-      <div class="client ">
+      <a href="http://www.mastertex-hk.com/" target="_blank" class="client ">
         <img src="media/images/clients/mastertex.png" alt="">
-      </div>
-      <div class="client">
+      </a>
+      <a href="https://casualpant.business.site/" target="_blank" class="client">
         <img class="s" src="media/images/clients/casual-paint.png" alt="">
-      </div>
-      <div class="client">
+      </a>
+      <a href="https://bluefive.ma" target="_blank" class="client">
         <img class="s" src="media/images/clients/bluefve.png" alt="">
-      </div>
+      </a>
     </div>
     <div class="testimonial-quotes">
       <h2 class="mb">
