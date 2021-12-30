@@ -62,7 +62,7 @@
   </section>
   <main>
     <section class="description business">
-      <div class="pictures-area service">
+      <div class="pictures-area service bv">
         <img src="media/images/4.jpg" alt="">
       </div>
       <div class="paragraphs">

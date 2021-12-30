@@ -1124,12 +1124,18 @@ body {
           flex-direction: column;
           align-items: center;
           width: 100%;
+          margin-top: 0;
           p {
             line-height: 2;
             margin-bottom: 20px;
             &.fir {
               margin-top: 40px;
             }
+          }
+        }
+        .pictures-area {
+          &.service {
+            margin-top: 0;
           }
         }
         .paragraphs {
