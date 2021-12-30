@@ -89,7 +89,7 @@
         font-weight: 700;
         border-radius: 40px;
         text-decoration: none;
-        color: #388dbc;
+        color: #ff2d16;
       }
       @media only screen and (max-width: 767px) {
         .notfound .notfound-404 {
