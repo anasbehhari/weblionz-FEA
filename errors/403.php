@@ -3,9 +3,11 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>404 HTML Template by Colorlib</title>
-    <link type="text/css" rel="stylesheet" href="css/style.css" />
-    <meta name="robots" content="noindex, follow" />
+    <title>403 | Oops! Page Access is forbidden! </title>
+    <link rel="apple-touch-icon" sizes="180x180" href="../media/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../media/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../media/icons/favicon-16x16.png">
+    <link rel="manifest" href="../media/icons/site.webmanifest">
     <style>
       * {
         -webkit-box-sizing: border-box;
