@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -115,57 +116,7 @@
                 required
               />
             </div>
-            <div class="input">
-              <label for="Budget" class="Budget required-field in bt-0"
-                >Budget for Design and Development (Sampling)</label
-              >
-              <small
-                >Unfortunately, we do not support student projects unless from
-                an accredited fashion design school.</small
-              >
-              <select name="Budget" id="Budget" required>
-                <option value="0" hidden>0$</option>
-                <option value="$5k - $20k">$5k - $20k</option>
-                <option value="$20k - $50k">$20k - $50k</option>
-                <option value="$50k - $100k">$50k - $100k</option>
-                <option value="$100k+">$100k+</option>
-                <option value="N/A">N/A</option>
-              </select>
-            </div>
-            <div class="input">
-              <label
-                for="Budget-Manufacturing"
-                class="Budget-Manufacturing required-field in bt-0"
-                >Budget for Bulk Production (Manufacturing)</label
-              >
-              <select
-                name="Budget-Manufacturing"
-                id="Budget-Manufacturing"
-                required
-              >
-                <option value="0" hidden>0$</option>
-                <option value="$5k - $20k">$5k - $20k</option>
-                <option value="$20k - $50k">$20k - $50k</option>
-                <option value="$50k - $100k">$50k - $100k</option>
-                <option value="$100k+">$100k+</option>
-                <option value="N/A">N/A</option>
-              </select>
-            </div>
-            <div class="input">
-              <label
-                for="Budget-branding"
-                class="Budget-branding required-field in bt-0"
-                >Budget for Branding</label
-              >
-              <select name="Budget-branding" id="Budget-branding" required>
-                <option value="0" hidden>0$</option>
-                <option value="$5k - $20k">$5k - $20k</option>
-                <option value="$20k - $50k">$20k - $50k</option>
-                <option value="$50k - $100k">$50k - $100k</option>
-                <option value="$100k+">$100k+</option>
-                <option value="N/A">N/A</option>
-              </select>
-            </div>
+          
             <div class="input">
               <label for="category" class="category required-field in bt-0"
                 >Category</label
