@@ -4,6 +4,6 @@ RewriteCond %{THE_REQUEST} /([^.]+)\.php [NC]
 RewriteRule ^ /%1 [NC,L,R]
 RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule ^ %{REQUEST_URI}.php [NC,L]
-ErrorDocument 403 https://weblionz.com/FE-Agency/errors/403
-ErrorDocument 404 https://weblionz.com/FE-Agency/errors/404
-ErrorDocument 500 https://weblionz.com/FE-Agency/errors/500
+ErrorDocument 403 https://weblionz.com/FE-Agency/403
+ErrorDocument 404 https://weblionz.com/FE-Agency/404
+ErrorDocument 500 https://weblionz.com/FE-Agency/500

@@ -73,6 +73,28 @@ body .loader .con-1 div {
   width: fit-content;
 }
 
+body .popup {
+  position: fixed;
+  bottom: 30px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  right: -300px;
+  background-color: #20c015;
+  color: white;
+  font-family: "Playfair display", sans-serif;
+  text-align: center;
+  padding: 10px 20px;
+  z-index: 5;
+  -webkit-transition: .5s right , .5s opacity;
+  transition: .5s right , .5s opacity;
+}
+
+body .popup.active {
+  right: 30px;
+  opacity: 1;
+}
+
 body #Header {
   position: relative;
   top: 0;
@@ -426,7 +448,6 @@ body #contactus .container-hld .col form .input.date .inp label {
 }
 
 body #contactus .container-hld .col form .input input {
-  width: 100%;
   padding: 12px;
   margin: 6px 0 4px;
   border: 1px solid #ccc;
@@ -439,6 +460,16 @@ body #contactus .container-hld .col form .input input {
           box-sizing: border-box;
   border-radius: 2px;
   outline-color: #ff2d16;
+}
+
+body #contactus .container-hld .col form .input input[type="number"] {
+  outline: none;
+  -moz-appearance: textfield !important;
+}
+
+body #contactus .container-hld .col form .input input[type="number"]::-webkit-outer-spin-button, body #contactus .container-hld .col form .input input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none !important;
+  margin: 0 !important;
 }
 
 body #contactus .container-hld .col form .input label.in {
@@ -473,7 +504,7 @@ body #contactus .container-hld .col form .input select::-ms-expand {
   display: none;
 }
 
-body #contactus .container-hld .col form .input select#services option {
+body #contactus .container-hld .col form .input select.mutiple option {
   padding: 10px;
 }
 
