@@ -4,7 +4,6 @@ window.onload = () => {
     loader.classList.add("hidden");
     if (document.querySelector("video")) {
       document.querySelector("body").focus();
-      document.querySelector("video").play();
       AOS.init({
         once: true,
         offset: 120,
