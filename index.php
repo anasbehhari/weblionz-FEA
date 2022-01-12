@@ -113,7 +113,7 @@
       </svg>
     </div>
     <div class="video">
-      <video src="media/video.mp4" muted loop="true"></video>
+      <video src="media/video.mp4" autoplay="true" muted loop="true"></video>
     </div>
   </section>
   <section id="whyus" data-aos="fade">
